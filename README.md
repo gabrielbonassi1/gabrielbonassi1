@@ -25,9 +25,9 @@
   <tr>
     <td align="center">
       <a href="https://github.com/gabrielbonassi1/dispensa-virtual">
-        <img src="https://via.placeholder.com/150" alt="Dispensa Virtual" width="120"/>
+        <img src="dispensa_virtual-logo.png" alt="Dispensa Virtual" width="120"/>
         <br />
-        <sub><b>Dispensa Virtual</b></sub>
+        <sub><b>Dispensa Virtual - A pantry management app</b></sub>
       </a>
     </td>
   </tr>
