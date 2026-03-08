@@ -24,10 +24,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/gabrielbonassi1/dispensa-virtual">
-        <img src="dispensa_virtual-logo.png" alt="Dispensa Virtual" width="120"/>
+      <a href="https://github.com/gabrielbonassi1/despensa-virtual">
+        <img src="despensa_virtual-logo.png" alt="Despensa Virtual" width="120"/>
         <br />
-        <sub><b>Dispensa Virtual - A pantry management app</b></sub>
+        <sub><b>Despensa Virtual - A pantry management app</b></sub>
       </a>
     </td>
   </tr>
@@ -93,6 +93,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 
+<img width="2816" height="1536" alt="despensa_virtual_logo" src="https://github.com/user-attachments/assets/58182e97-cb41-46ef-8ff4-fa704cd3e9eb" />
 
 ### 📊 Most Used Language
 
